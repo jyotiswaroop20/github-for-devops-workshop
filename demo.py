@@ -1,7 +1,5 @@
 def main():
-    ""
     
-    ""
     name = input("Tumhara naam kya hai? ")
     print(f"Namaste, {name}!")
 
